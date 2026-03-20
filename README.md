@@ -1,4 +1,4 @@
-# MAXVER
+
 # Hey there 👋
 
 I'm Madhusudan, a beginner programmer based in India.
